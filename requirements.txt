@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+pandas 
+numpy
+streamlit
+scikit-learn
+requests
+=======
 pandas 
 numpy
 streamlit
 scikit-learn
 requirements
+>>>>>>> 8134a04b8552024b7f1724c03a7c71e7a03c0437
